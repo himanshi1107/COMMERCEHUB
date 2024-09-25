@@ -44,14 +44,23 @@ A full-stack eCommerce application built with React, Redux and Spring Boot. The 
 3. Access the application at `http://localhost:3000` in your web browser.
 
 ## Demo
-![image](https://github.com/user-attachments/assets/a191aeaf-df40-4fdb-86c0-20783ba03338)
+![image](https://github.com/user-attachments/assets/2d4cd68e-54a4-49ce-96f9-4a3797574d0c)
 
-![image](https://github.com/user-attachments/assets/1975b31e-fbf6-4ed6-8319-41dd1ec81a69)
+![image](https://github.com/user-attachments/assets/5cb0556e-1f96-4f77-af33-b2d4b97ef39a)
 
-![image](https://github.com/user-attachments/assets/3cc6a2aa-1e6c-4b49-8844-4788860017cf)
+![image](https://github.com/user-attachments/assets/a99fd067-16d7-4d82-9024-1b6036929236)
 
-![image](https://github.com/user-attachments/assets/d776e873-38b4-45ec-825c-0310157d8182)
+![image](https://github.com/user-attachments/assets/ce1a38e3-d666-4407-bb50-bc5700b841d5)
 
-![image](https://github.com/user-attachments/assets/dc7ffb0e-e2b0-4206-9215-ba5cda7a0106)
+![image](https://github.com/user-attachments/assets/711bf987-d925-4c33-99a8-5683aa35bba7)
 
-![image](https://github.com/user-attachments/assets/b394718b-f290-48bd-8f10-1fd56d9bb008)
+![image](https://github.com/user-attachments/assets/aded300b-3520-4a29-85ce-ffd3bdfc2796)
+
+![image](https://github.com/user-attachments/assets/8f3650f5-7d3b-4ae3-9312-b2cc2acfd30c)
+
+
+
+
+
+
+
